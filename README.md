@@ -22,5 +22,7 @@ https://github.com/DipeshDhandha07/Java-Programs.git
 
 ```html
 javac nameoffile.java
+```
+```html
 java nameofile
 ```
