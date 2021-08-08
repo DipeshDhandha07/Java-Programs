@@ -8,7 +8,7 @@ class InetAddressDemo
         InetAddress address1 = InetAddress.getByName("www.java.net");  
         System.out.println(address1.getHostAddress());      
    
-       //gets hostname from IP address:
+       //gets hostname from IP address: 
         InetAddress address2 = InetAddress.getByName("8.8.8.8");
         System.out.println(address2.getHostName());
 
