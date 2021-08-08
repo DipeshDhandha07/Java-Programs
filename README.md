@@ -18,11 +18,8 @@ https://www.oracle.com/in/java/technologies/javase/javase-jdk8-downloads.html
 https://github.com/DipeshDhandha07/Java-Programs.git
 ```
 
-2.Run
+2.Add Java Path to Environment variables
 
 ```html
-javac nameoffile.java
-```
-```html
-java nameofile
+set path=C:\Program Files\Java\jdk1.8.0_27\bin
 ```
